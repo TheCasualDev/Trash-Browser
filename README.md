@@ -10,7 +10,6 @@ The first step is getting the correct python build, now due to the libraries use
 <br> 
 Next step is getting the correct libraries installed, for this project I used **PyQt5**, **PyQtWebEngine** & **Curses**. To install these simple open a command prompt and install the following. 
 <br>
-<size 3>
 ```pip install PyQtWebEngine``` <br> 
 ```pip install PyQt5``` <br> 
 ```pip install windows-curses``` -- Supposedly this libary should auto install, but it didn't for me. 
