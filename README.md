@@ -9,6 +9,6 @@ Obviously this dosen't have a simple `exe` that you can download and run. So the
 The first step is getting the correct python build, now due to the libraries used in this project the only one that has worked for me is **Python 3.9.13** 
 <br> 
 Next step is getting the correct libraries installed, for this project I used **PyQt5**, **PyQtWebEngine** & **Curses**. To install these simple open a command prompt and install the following. 
-```pip install PyQtWebEngine```
-```pip install PyQt5```
-```pip install windows-curses```
+```pip install PyQtWebEngine``` <br> 
+```pip install PyQt5``` <br> 
+```pip install windows-curses``` -- Supposedly this libary should auto install, but it didn't for me. 
