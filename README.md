@@ -12,7 +12,11 @@ Next step is getting the correct libraries installed, for this project I used **
 <br>
 <br>
 ```
--pip install PyQtWebEngine
-``` <br> 
-```pip install PyQt5``` <br> 
-```pip install windows-curses``` -- Supposedly this libary should auto install, but it didn't for me. 
+pip install PyQtWebEngine
+``` 
+```
+pip install PyQt5
+```
+```
+pip install windows-curses
+```
